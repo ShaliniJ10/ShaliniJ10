@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shalini Jha</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinij10&label=Profile%20views&color=0e75b6&style=flat" alt="shalinij10" /> </p>
 
